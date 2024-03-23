@@ -25,3 +25,10 @@ if __name__ == "__main__":
     git_remote_add(url)
     git_pull_allow_unrelated()
     git_push()
+
+
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/DacianFD84/Arduino.git
+git push -u origin master:main
