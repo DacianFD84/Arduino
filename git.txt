@@ -17,7 +17,7 @@ def git_push():
 
 if __name__ == "__main__":
     # User input for the repository URL
-    url = input("Enter the repository URL: ")
+    url = input("Enterdddddd the repository URL: ")
 
     # Perform git commands
     git_init()
